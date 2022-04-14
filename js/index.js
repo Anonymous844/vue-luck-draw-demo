@@ -46,8 +46,8 @@ const myLucky = new LuckyCanvas.LuckyWheel('#app', {
   ],
   defaultConfig: {
     stopRange: 0.8,
-    accelerationTime: 1000,
-    decelerationTime: 1000,
+    accelerationTime: 2000,
+    decelerationTime: 3000,
   },
   start: () => {
     myLucky.play()
