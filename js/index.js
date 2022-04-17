@@ -1,29 +1,82 @@
 const list = [
-  '华晓龙',
-  '欧阳振强',
-//   '董朋辉',
-  '费露军',
-  '洪磊',
-  '侯家麒',
-  '黄佳豪',
-//   '黄山',
-  '蒋益波',
-//   '林泽毅',
-//   '谭心睿',
-  '田佳亮',
-  '王克强',
-  '吴俊杰',
-//   '徐谦',
-//   '张玉琪',
-//   '张元博',
-//   '张政',
-  '周继源',
+  {
+    name: '华晓龙',
+    range: 1,
+  },
+  {
+    name: '欧阳振强',
+    range: 1,
+  },
+  // {
+  //   name: '董朋辉',
+  //   range: 1,
+  // },
+  {
+    name: '费露军',
+    range: 1,
+  },
+  {
+    name: '洪磊',
+    range: 1,
+  },
+  {
+    name: '侯家麒',
+    range: 1,
+  },
+  {
+    name: '黄佳豪',
+    range: 1,
+  },
+  // {
+  //   name: '黄山',
+  //   range: 1,
+  // },
+  {
+    name: '蒋益波',
+    range: 1,
+  },
+  // {
+  //   name: '林泽毅',
+  //   range: 1,
+  // },
+  // {
+  //   name: '谭心睿',
+  //   range: 1,
+  // },
+  {
+    name: '田佳亮',
+    range: 1,
+  },
+  {
+    name: '王克强',
+    range: 1,
+  },
+  {
+    name: '吴俊杰',
+    range: 1,
+  },
+  // {
+  //   name: '徐谦',
+  //   range: 1,
+  // },
+  // {
+  //   name: '张玉琪',
+  //   range: 1,
+  // },
+  // {
+  //   name: '张元博',
+  //   range: 1,
+  // },
+  // {
+  //   name: '张政',
+  //   range: 1,
+  // },
+  {
+    name: '周继源',
+    range: 1
+  },
 ];
 const lens = list.length;
-// 最终中奖
-const answer = () => {
-  return Math.floor(Math.random() * lens);
-};
 // 随机颜色
 const randomColor = () => {
   return Math.floor(Math.random() * 256);
@@ -34,7 +87,7 @@ const myLucky = new LuckyCanvas.LuckyWheel('#app', {
   height: '500px',
   blocks: [{ padding: '12px', background: '#4765c4' }],
   prizes: list.map((v, i) => {
-    return { fonts: [{ text: v, fontColor: '#FFF', top: '10%' }], background: `rgb(${randomColor()}, ${randomColor()}, ${randomColor()})` };
+    return { fonts: [{ text: v.name, fontColor: '#FFF', top: '10%' }], background: `rgb(${randomColor()}, ${randomColor()}, ${randomColor()})`, range: v.range };
   }),
   buttons: [
     { radius: '50%', background: '#617df2' },
@@ -51,6 +104,6 @@ const myLucky = new LuckyCanvas.LuckyWheel('#app', {
   },
   start: () => {
     myLucky.play()
-    myLucky.stop(answer());
+    myLucky.stop();
   },
 })
