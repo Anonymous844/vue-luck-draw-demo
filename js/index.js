@@ -1,76 +1,76 @@
 const list = [
-  // {
-  //   name: '华晓龙',
-  //   range: 1,
-  // },
+  {
+    name: '华晓龙',
+    range: 1,
+  },
+  {
+    name: '欧阳振强',
+    range: 1,
+  },
+  {
+    name: '董朋辉',
+    range: 1,
+  },
+  {
+    name: '费露军',
+    range: 1,
+  },
+  {
+    name: '洪磊',
+    range: 1,
+  },
+  {
+    name: '侯家麒',
+    range: 1,
+  },
 //   {
-//     name: '欧阳振强',
-//     range: 1,
-//   },
-  // {
-  //   name: '董朋辉',
-  //   range: 1,
-  // },
-//   {
-//     name: '费露军',
-//     range: 1,
-//   },
-  // {
-  //   name: '洪磊',
-  //   range: 1,
-  // },
-//   {
-//     name: '侯家麒',
+//     name: '黄佳豪',
 //     range: 1,
 //   },
   {
-    name: '黄佳豪',
+    name: '黄山',
     range: 1,
   },
-  // {
-  //   name: '黄山',
-  //   range: 1,
-  // },
-//   {
-//     name: '蒋益波',
-//     range: 1,
-//   },
-  // {
-  //   name: '林泽毅',
-  //   range: 1,
-  // },
-  // {
-  //   name: '谭心睿',
-  //   range: 1,
-  // },
+  {
+    name: '蒋益波',
+    range: 1,
+  },
+  {
+    name: '林泽毅',
+    range: 1,
+  },
+  {
+    name: '谭心睿',
+    range: 1,
+  },
   {
     name: '田佳亮',
     range: 1,
   },
-//   {
-//     name: '王克强',
-//     range: 1,
-//   },
-//   {
-//     name: '吴俊杰',
-//     range: 1,
-//   },
-  // {
-  //   name: '徐谦',
-  //   range: 1,
-  // },
-  // {
-  //   name: '张玉琪',
-  //   range: 1,
-  // },
-  // {
-  //   name: '张元博',
-  //   range: 1,
-  // },
-  // {
-  //   name: '张政',
-  //   range: 1,
-  // },
+  {
+    name: '王克强',
+    range: 1,
+  },
+  {
+    name: '吴俊杰',
+    range: 1,
+  },
+  {
+    name: '徐谦',
+    range: 1,
+  },
+  {
+    name: '张玉琪',
+    range: 1,
+  },
+  {
+    name: '张元博',
+    range: 1,
+  },
+  {
+    name: '张政',
+    range: 1,
+  },
   {
     name: '周继源',
     range: 1
