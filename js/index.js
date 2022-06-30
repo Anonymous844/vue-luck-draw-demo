@@ -11,10 +11,10 @@ const list = [
     name: '董朋辉',
     range: 1,
   },
-  {
-    name: '费露军',
-    range: 1,
-  },
+//   {
+//     name: '费露军',
+//     range: 1,
+//   },
 //   {
 //     name: '洪磊',
 //     range: 1,
@@ -55,10 +55,10 @@ const list = [
 //     name: '张元博',
 //     range: 1,
 //   },
-  {
-    name: '张政',
-    range: 1,
-  },
+//   {
+//     name: '张政',
+//     range: 1,
+//   },
   {
     name: '周继源',
     range: 1
