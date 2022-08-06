@@ -15,10 +15,10 @@ const list = [
     name: '洪磊',
     range: 1,
   },
-  {
-    name: '侯家麒',
-    range: 1,
-  },
+//   {
+//     name: '侯家麒',
+//     range: 1,
+//   },
   {
     name: '黄佳豪',
     range: 1,
@@ -31,10 +31,10 @@ const list = [
     name: '林泽毅',
     range: 1,
   },
-  {
-    name: '田佳亮',
-    range: 1,
-  },
+//   {
+//     name: '田佳亮',
+//     range: 1,
+//   },
   {
     name: '王克强',
     range: 1,
