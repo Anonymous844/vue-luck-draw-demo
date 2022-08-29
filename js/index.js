@@ -23,10 +23,10 @@ const list = [
 //     name: '黄山',
 //     range: 1,
 //   },
-  {
-    name: '林泽毅',
-    range: 1,
-  },
+//   {
+//     name: '林泽毅',
+//     range: 1,
+//   },
 //   {
 //     name: '田佳亮',
 //     range: 1,
@@ -39,10 +39,10 @@ const list = [
 //     name: '吴俊杰',
 //     range: 1,
 //   },
-  {
-    name: '徐谦',
-    range: 1,
-  },
+//   {
+//     name: '徐谦',
+//     range: 1,
+//   },
 //   {
 //     name: '张元博',
 //     range: 1,
