@@ -47,14 +47,14 @@ const list = [
 //     name: '张元博',
 //     range: 1,
 //   },
-  {
-    name: '张政',
-    range: 1,
-  },
-  {
-    name: '周继源',
-    range: 1
-  },
+  // {
+  //   name: '张政',
+  //   range: 1,
+  // },
+  // {
+  //   name: '周继源',
+  //   range: 1
+  // },
 ];
 const lens = list.length;
 // 随机颜色
