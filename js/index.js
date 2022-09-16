@@ -7,54 +7,54 @@ const list = [
     name: '董朋辉',
     range: 1,
   },
-//   {
-//     name: '洪磊',
-//     range: 1,
-//   },
-//   {
-//     name: '侯家麒',
-//     range: 1,
-//   },
   {
-    name: '黄佳豪',
+    name: '洪磊',
+    range: 1,
+  },
+  {
+    name: '侯家麒',
     range: 1,
   },
 //   {
-//     name: '黄山',
+//     name: '黄佳豪',
 //     range: 1,
 //   },
-//   {
-//     name: '林泽毅',
-//     range: 1,
-//   },
-//   {
-//     name: '田佳亮',
-//     range: 1,
-//   },
-//   {
-//     name: '王克强',
-//     range: 1,
-//   },
-//   {
-//     name: '吴俊杰',
-//     range: 1,
-//   },
-//   {
-//     name: '徐谦',
-//     range: 1,
-//   },
-//   {
-//     name: '张元博',
-//     range: 1,
-//   },
-  // {
-  //   name: '张政',
-  //   range: 1,
-  // },
-  // {
-  //   name: '周继源',
-  //   range: 1
-  // },
+  {
+    name: '黄山',
+    range: 1,
+  },
+  {
+    name: '林泽毅',
+    range: 1,
+  },
+  {
+    name: '田佳亮',
+    range: 1,
+  },
+  {
+    name: '王克强',
+    range: 1,
+  },
+  {
+    name: '吴俊杰',
+    range: 1,
+  },
+  {
+    name: '徐谦',
+    range: 1,
+  },
+  {
+    name: '张元博',
+    range: 1,
+  },
+  {
+    name: '张政',
+    range: 1,
+  },
+  {
+    name: '周继源',
+    range: 1
+  },
 ];
 const lens = list.length;
 // 随机颜色
