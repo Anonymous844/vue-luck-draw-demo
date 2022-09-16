@@ -43,10 +43,10 @@ const list = [
     name: '徐谦',
     range: 1,
   },
-  {
-    name: '张元博',
-    range: 1,
-  },
+//   {
+//     name: '张元博',
+//     range: 1,
+//   },
   {
     name: '张政',
     range: 1,
