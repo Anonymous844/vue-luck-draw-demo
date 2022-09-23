@@ -7,14 +7,14 @@ const list = [
     name: '董朋辉',
     range: 1,
   },
-  {
-    name: '洪磊',
-    range: 1,
-  },
-  {
-    name: '侯家麒',
-    range: 1,
-  },
+//   {
+//     name: '洪磊',
+//     range: 1,
+//   },
+//   {
+//     name: '侯家麒',
+//     range: 1,
+//   },
   {
     name: '黄佳豪',
     range: 1,
