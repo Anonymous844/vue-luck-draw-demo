@@ -3,10 +3,10 @@ const list = [
     name: '欧阳振强',
     range: 1,
   },
-  {
-    name: '董朋辉',
-    range: 1,
-  },
+//   {
+//     name: '董朋辉',
+//     range: 1,
+//   },
 //   {
 //     name: '洪磊',
 //     range: 1,
@@ -39,10 +39,10 @@ const list = [
     name: '吴俊杰',
     range: 1,
   },
-  {
-    name: '徐谦',
-    range: 1,
-  },
+//   {
+//     name: '徐谦',
+//     range: 1,
+//   },
 //   {
 //     name: '张元博',
 //     range: 1,
