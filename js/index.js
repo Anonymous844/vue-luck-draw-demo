@@ -1,8 +1,8 @@
 const list = [
-  {
-    name: '欧阳振强',
-    range: 1,
-  },
+//   {
+//     name: '欧阳振强',
+//     range: 1,
+//   },
 //   {
 //     name: '董朋辉',
 //     range: 1,
@@ -15,10 +15,10 @@ const list = [
 //     name: '侯家麒',
 //     range: 1,
 //   },
-  {
-    name: '黄佳豪',
-    range: 1,
-  },
+//   {
+//     name: '黄佳豪',
+//     range: 1,
+//   },
   {
     name: '黄山',
     range: 1,
